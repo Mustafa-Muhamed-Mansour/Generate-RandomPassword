@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "289504123607",
+    "project_id": "randompasswordgenerate",
+    "storage_bucket": "randompasswordgenerate.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:289504123607:android:c2b31f8de1e0e799012e92",
+        "android_client_info": {
+          "package_name": "com.randompasswordgenerate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "289504123607-ksnt5hqbeh16424bd6ssfokd6ccq0qij.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHbt54jeDcbOu8Yd5m8x1pXxYKuRmwR_0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "289504123607-ksnt5hqbeh16424bd6ssfokd6ccq0qij.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
